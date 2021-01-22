@@ -180,6 +180,9 @@ header {
   .container {
     width: 720px; }
 
+  .header {
+    padding-bottom: 100px; }
+
   .wrapper {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
